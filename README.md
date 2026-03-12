@@ -37,6 +37,7 @@ The **Employee Management System** is a secure, database-driven application that
 
 ## Screenshots
    Login page
+   ![image alt](https://github.com/Vinayt75/Employee-Management-System/blob/0d683b8ff7b59d77e602c6b259b29b911f9a87fe/emp.png)
    
    
    
