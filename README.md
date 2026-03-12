@@ -36,7 +36,11 @@ The **Employee Management System** is a secure, database-driven application that
 * `database_setup.sql` - SQL script to initialize the database and tables.
 
 ## Screenshots
-   Login page|Main dashboard
-
+   Login page
+   
+   
+   
+   Main dashboard
+![image alt](https://raw.githubusercontent.com/Vinayt75/Employee-Management-System/bc204cfe4eb60bf80fb42c635d62e56baf7217b6/emp%201.png)
 
 
